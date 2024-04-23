@@ -177,6 +177,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.
 TW_FRAMERATE := 60
 TW_THEME := portrait_hdpi
 TW_DEFAULT_BRIGHTNESS := 1000
+TW_MAX_BRIGHTNESS := 1000
 
 # Temp
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone54/temp
