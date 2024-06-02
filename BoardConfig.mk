@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/alldocube/t1030m
+DEVICE_PATH := device/xiaomi/yunluo
 
 # Building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
