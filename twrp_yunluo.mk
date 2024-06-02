@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device specific configs
-$(call inherit-product, device/alldocube/t1030m/device.mk)
+$(call inherit-product, device/xiaomi/yunluo/device.mk)
 
 # Device identifier
 PRODUCT_DEVICE := yunluo
