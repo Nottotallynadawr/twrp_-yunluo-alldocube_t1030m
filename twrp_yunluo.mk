@@ -25,11 +25,11 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/alldocube/t1030m/device.mk)
 
 # Device identifier
-PRODUCT_DEVICE := t1030m
-PRODUCT_NAME := twrp_t1030m
-PRODUCT_BRAND := alldocube
-PRODUCT_MODEL := Alldocube iPlay50 Pro
-PRODUCT_MANUFACTURER := Alldocube
+PRODUCT_DEVICE := yunluo
+PRODUCT_NAME := twrp_yunluo
+PRODUCT_BRAND := xiaomi
+PRODUCT_MODEL := Xiaomi Redmi Pad
+PRODUCT_MANUFACTURER := Xiaomi
 
 # Hide Reflash TWRP
 PRODUCT_PROPERTY_OVERRIDES += ro.twrp.vendor_boot=true
